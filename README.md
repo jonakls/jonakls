@@ -4,6 +4,7 @@
 🔵 Currently I work at [Litigando](https://www.litigando.com/) as an Operations Engineering Developer.
 
 Welcome to my little projects 😊
+You can view my portfolio [here](https://jonakls.github.io/)
 
 ---
 
@@ -15,10 +16,9 @@ Welcome to my little projects 😊
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonakls&theme=dark" alt="jonakls"/></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jonakls&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 ---
-
 ### Skills
 Here you will find my progress with these programming languages or others not related to development.
 
@@ -32,9 +32,13 @@ Here you will find my progress with these programming languages or others not re
 | JavaScript | Basic |
 | TypeScript | Basic |
 | SQL | Medium |
-
 ---
 
+### Waka
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+### Links
 ![](https://komarev.com/ghpvc/?username=Jonakls&color=brightgreen)
 [![wakatime](https://wakatime.com/badge/user/b83bec8a-0073-42f8-9c13-9683a96ec095.svg)](https://wakatime.com/@b83bec8a-0073-42f8-9c13-9683a96ec095)
 
