@@ -38,11 +38,11 @@ Here you will find my progress with these programming languages or others not re
 <!--START_SECTION:waka-->
 
 ```txt
-SQL                26 hrs 48 mins  ███████████████▓░░░░░░░░░   62.29 %
-Java               13 hrs 25 mins  ███████▓░░░░░░░░░░░░░░░░░   31.18 %
-Python             1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-XML                51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
-Java Properties    19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+SQL                27 hrs 28 mins  ████████████████▒░░░░░░░░   64.86 %
+Java               13 hrs 44 mins  ████████░░░░░░░░░░░░░░░░░   32.46 %
+XML                44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Java Properties    15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+GitIgnore file     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
