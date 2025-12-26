@@ -38,11 +38,10 @@ Here you will find my progress with these programming languages or others not re
 <!--START_SECTION:waka-->
 
 ```txt
-SQL                12 hrs 20 mins  █████████████░░░░░░░░░░░░   52.49 %
-Java               10 hrs 28 mins  ███████████░░░░░░░░░░░░░░   44.58 %
-XML                35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-GitIgnore file     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Python             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+SQL              11 hrs 25 mins  ██████████████████▓░░░░░░   74.82 %
+Java             3 hrs 50 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.17 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
