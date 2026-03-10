@@ -39,7 +39,7 @@ Here you will find my progress with these programming languages or others not re
 
 ```txt
 SQL              16 hrs 34 mins        █████████▓░░░░░░░░░░░░░░░   38.96 %
-Java             13 hrs 14 mins        ███████▓░░░░░░░░░░░░░░░░░   31.13 %
+Java             13 hrs 14 mins        ███████▓░░░░░░░░░░░░░░░░░   31.14 %
 Python           10 hrs 35 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
 XML              1 hr 29 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
 Markdown         22 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
